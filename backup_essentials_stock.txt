@@ -1,0 +1,12 @@
+
+Item    Quantity     Price(GHc)
+soap    12    2.0
+drink    12    33.0
+water    23    11.0
+chcoolate    23    10.0
+Item    Quantity     Price(GHc)
+toffee    50    1.5
+comb    50    2.0
+cornflakes    22    12.0
+sardine    20    5.0
+sausage    15    7.0
